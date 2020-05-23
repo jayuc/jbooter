@@ -1,0 +1,24 @@
+{
+  "name": "jbooter",
+  "version": "1.0.0",
+  "description": "实现js类继承",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayuc/jbooter.git"
+  },
+  "keywords": [
+    "jbooter",
+    "jboot",
+    "js"
+  ],
+  "author": "jayu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayuc/jbooter/issues"
+  },
+  "homepage": "https://github.com/jayuc/jbooter#readme"
+}
